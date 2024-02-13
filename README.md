@@ -19,7 +19,8 @@ The dataset consists of 17 columns and 1000 rows, covering various aspects of ea
 - Inspected data for NULL values and missing data.
 Built a database, created tables, and inserted data.
 Utilized feature engineering to generate new columns like time_of_day, day_name, and month_name for enhanced analysis.
-Exploratory Data Analysis (EDA):
+
+## Exploratory Data Analysis (EDA):
 
 - Conducted exploratory data analysis to answer specific business questions and achieve project goals.
 
@@ -27,6 +28,7 @@ Exploratory Data Analysis (EDA):
 ## Generic Question
 
 1.) How many unique cities does the data have?
+
 2.) In which city is each branch?
 
 ## Product
